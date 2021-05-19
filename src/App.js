@@ -10,12 +10,12 @@ function App() {
           Web app coming soon...
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="repo-link"
+          href="https://github.com/un-buggy/unbuggy-FE"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          View Github Repo
         </a>
       </header>
     </div>
